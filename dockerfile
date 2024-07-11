@@ -2,7 +2,7 @@
 FROM postgres:latest
 
 # Environment variables
-ENV POSTGRES_DB=rne
+ENV POSTGRES_DB=RNEdb
 ENV POSTGRES_USER=postgres
 ENV POSTGRES_PASSWORD=youssef31
 
